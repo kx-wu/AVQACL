@@ -1,0 +1,5705 @@
+[
+    {
+        "video_id": "00000028",
+        "question_id": 7,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00000093",
+        "question_id": 68,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00000241",
+        "question_id": 74,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00000250",
+        "question_id": 98,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00000226",
+        "question_id": 100,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "saxophone",
+            "drum",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00000039",
+        "question_id": 113,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000007",
+        "question_id": 133,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00000107",
+        "question_id": 137,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "flute",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00000074",
+        "question_id": 154,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00000057",
+        "question_id": 172,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00000198",
+        "question_id": 206,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "ukulele",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00004170",
+        "question_id": 263,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "accordion",
+            "drum",
+            "congas"
+        ]
+    },
+    {
+        "video_id": "00004893",
+        "question_id": 268,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"drum\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00004684",
+        "question_id": 282,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"guzheng\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00007300",
+        "question_id": 291,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "piano",
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00007300",
+        "question_id": 291,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "piano",
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00008355",
+        "question_id": 356,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00001877",
+        "question_id": 359,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"drum\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone",
+            "drum",
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00006774",
+        "question_id": 373,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"tuba\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00005430",
+        "question_id": 404,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"guzheng\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00005469",
+        "question_id": 427,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"trumpet\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00005570",
+        "question_id": 459,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004630",
+        "question_id": 604,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"saxophone\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "saxophone",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00001822",
+        "question_id": 784,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "pipa",
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00004389",
+        "question_id": 805,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"drum\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00008054",
+        "question_id": 816,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00000898",
+        "question_id": 833,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00003535",
+        "question_id": 835,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00007742",
+        "question_id": 872,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "clarinet",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00001190",
+        "question_id": 878,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002854",
+        "question_id": 914,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "trumpet",
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00005591",
+        "question_id": 973,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00005389",
+        "question_id": 1023,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"guzheng\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00007030",
+        "question_id": 1028,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "acoustic_guitar",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00003138",
+        "question_id": 1041,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00005247",
+        "question_id": 1059,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "accordion",
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00000137",
+        "question_id": 1108,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"erhu\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "erhu",
+            "piano",
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00008161",
+        "question_id": 1246,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"bassoon\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bassoon",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002232",
+        "question_id": 1258,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003011",
+        "question_id": 1284,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00008315",
+        "question_id": 1344,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"bagpipe\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00003630",
+        "question_id": 1441,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"saxophone\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele",
+            "saxophone",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00005317",
+        "question_id": 1463,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"drum\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00005716",
+        "question_id": 1739,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00005524",
+        "question_id": 1829,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00003110",
+        "question_id": 1837,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"bagpipe\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00003177",
+        "question_id": 1939,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00000446",
+        "question_id": 1943,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "saxophone",
+            "trumpet",
+            "cello",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00001121",
+        "question_id": 2074,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"electric_bass\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00001255",
+        "question_id": 2084,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008849",
+        "question_id": 2090,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"trumpet\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00007840",
+        "question_id": 2268,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00000867",
+        "question_id": 2311,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008569",
+        "question_id": 2446,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "xylophone",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000168",
+        "question_id": 2512,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"suona\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "suona"
+        ]
+    },
+    {
+        "video_id": "00006045",
+        "question_id": 2586,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"guzheng\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00002203",
+        "question_id": 2589,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00005143",
+        "question_id": 2615,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00008816",
+        "question_id": 2644,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "cello",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00001307",
+        "question_id": 2711,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00002795",
+        "question_id": 2846,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00003946",
+        "question_id": 2907,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00007274",
+        "question_id": 2929,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"guzheng\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00004461",
+        "question_id": 2950,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "tuba",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000393",
+        "question_id": 3080,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "cello",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00006333",
+        "question_id": 3181,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"erhu\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002620",
+        "question_id": 3190,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "clarinet",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00008675",
+        "question_id": 3200,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"electric_bass\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00002605",
+        "question_id": 3226,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello",
+            "piano",
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00000665",
+        "question_id": 3262,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"erhu\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007431",
+        "question_id": 3263,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "ukulele",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00001709",
+        "question_id": 3292,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00006795",
+        "question_id": 3309,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"erhu\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00005847",
+        "question_id": 3314,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "cello",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00004331",
+        "question_id": 3417,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00005187",
+        "question_id": 3546,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "piano",
+            "electric_bass",
+            "congas"
+        ]
+    },
+    {
+        "video_id": "00007359",
+        "question_id": 3560,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "tuba",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00003463",
+        "question_id": 3565,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00000590",
+        "question_id": 3576,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00003611",
+        "question_id": 3689,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003312",
+        "question_id": 3704,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"erhu\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00001561",
+        "question_id": 3708,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00005488",
+        "question_id": 3716,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "pipa",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00001287",
+        "question_id": 3735,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"saxophone\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00008940",
+        "question_id": 3982,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"congas\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "congas"
+        ]
+    },
+    {
+        "video_id": "00003824",
+        "question_id": 4088,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00000601",
+        "question_id": 4096,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00007612",
+        "question_id": 4123,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"suona\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "suona"
+        ]
+    },
+    {
+        "video_id": "00008134",
+        "question_id": 4198,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00007858",
+        "question_id": 4301,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00005793",
+        "question_id": 4311,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"suona\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "suona"
+        ]
+    },
+    {
+        "video_id": "00006242",
+        "question_id": 4327,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00001435",
+        "question_id": 4363,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"drum\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00007099",
+        "question_id": 4374,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00002651",
+        "question_id": 4389,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006126",
+        "question_id": 4394,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002812",
+        "question_id": 4430,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00006350",
+        "question_id": 4432,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "accordion",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00000625",
+        "question_id": 4507,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"suona\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "suona"
+        ]
+    },
+    {
+        "video_id": "00006416",
+        "question_id": 4563,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00004856",
+        "question_id": 4564,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004792",
+        "question_id": 4571,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"tuba\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00008975",
+        "question_id": 4647,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00004433",
+        "question_id": 4655,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00004649",
+        "question_id": 4819,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "piano",
+            "cello",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00000570",
+        "question_id": 4934,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001643",
+        "question_id": 5036,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00002375",
+        "question_id": 5075,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "bassoon",
+            "piano",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00002190",
+        "question_id": 5078,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002034",
+        "question_id": 5082,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"saxophone\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00003155",
+        "question_id": 5088,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"tuba\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00004357",
+        "question_id": 5104,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "trumpet",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00007655",
+        "question_id": 5136,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003346",
+        "question_id": 5154,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00006384",
+        "question_id": 5236,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"congas\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00001909",
+        "question_id": 5254,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "pipa",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00006897",
+        "question_id": 5336,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"guzheng\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00006529",
+        "question_id": 5385,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "acoustic_guitar",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00000805",
+        "question_id": 5476,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"tuba\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00002905",
+        "question_id": 5512,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00005906",
+        "question_id": 5519,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "erhu",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00007764",
+        "question_id": 5530,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "banjo",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002409",
+        "question_id": 5535,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "banjo",
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00005090",
+        "question_id": 5545,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"tuba\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00007566",
+        "question_id": 5691,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00003060",
+        "question_id": 5774,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"bagpipe\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00008009",
+        "question_id": 5785,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002148",
+        "question_id": 5813,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"banjo\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "acoustic_guitar",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00003571",
+        "question_id": 5855,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00007489",
+        "question_id": 5884,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"erhu\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00008666",
+        "question_id": 5958,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00008392",
+        "question_id": 6009,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"bassoon\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00005962",
+        "question_id": 6015,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00003220",
+        "question_id": 6430,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00001974",
+        "question_id": 6463,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00005216",
+        "question_id": 6481,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00000522",
+        "question_id": 6659,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"banjo\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "bassoon",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00002995",
+        "question_id": 6728,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "trumpet",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00002449",
+        "question_id": 6800,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00007963",
+        "question_id": 6821,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00004185",
+        "question_id": 6830,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "clarinet",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003661",
+        "question_id": 6863,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"bassoon\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00006004",
+        "question_id": 6881,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00001373",
+        "question_id": 6944,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello",
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00006865",
+        "question_id": 6977,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "flute",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00000330",
+        "question_id": 7045,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006080",
+        "question_id": 7149,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bassoon",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00005265",
+        "question_id": 7166,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00003892",
+        "question_id": 7246,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00000823",
+        "question_id": 7285,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "clarinet",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00007220",
+        "question_id": 7389,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00004749",
+        "question_id": 7402,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng",
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00003711",
+        "question_id": 7436,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00008238",
+        "question_id": 7440,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00007644",
+        "question_id": 7506,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00000547",
+        "question_id": 7520,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003324",
+        "question_id": 7528,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002972",
+        "question_id": 7656,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00008750",
+        "question_id": 7784,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "erhu",
+            "xylophone",
+            "pipa",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003371",
+        "question_id": 18708,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007545",
+        "question_id": 18712,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00003689",
+        "question_id": 18823,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele",
+            "piano",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00004078",
+        "question_id": 19004,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "clarinet",
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00006989",
+        "question_id": 19098,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00000746",
+        "question_id": 19285,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00008836",
+        "question_id": 19437,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00004934",
+        "question_id": 19610,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "erhu",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00005375",
+        "question_id": 19618,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007919",
+        "question_id": 19633,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00002332",
+        "question_id": 19781,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "acoustic_guitar",
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00005048",
+        "question_id": 20006,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00000426",
+        "question_id": 20020,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "banjo",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00006289",
+        "question_id": 20151,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00002592",
+        "question_id": 20166,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00008514",
+        "question_id": 20261,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00005736",
+        "question_id": 20301,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00001226",
+        "question_id": 20361,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00004663",
+        "question_id": 20397,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00001582",
+        "question_id": 20471,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003280",
+        "question_id": 20501,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00003202",
+        "question_id": 20558,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "congas"
+        ]
+    },
+    {
+        "video_id": "00001857",
+        "question_id": 20591,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00005608",
+        "question_id": 20658,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00008782",
+        "question_id": 20678,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00000768",
+        "question_id": 20681,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00008472",
+        "question_id": 20719,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00001627",
+        "question_id": 20756,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00005235",
+        "question_id": 20776,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00006681",
+        "question_id": 20784,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bassoon",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00001081",
+        "question_id": 20789,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone",
+            "cello",
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006402",
+        "question_id": 20821,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "ukulele",
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00007587",
+        "question_id": 20835,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00001660",
+        "question_id": 20927,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00001150",
+        "question_id": 20977,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "clarinet",
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00007169",
+        "question_id": 21020,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00005100",
+        "question_id": 21066,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00007803",
+        "question_id": 21241,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "acoustic_guitar",
+            "accordion",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00006593",
+        "question_id": 21257,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bagpipe",
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00001322",
+        "question_id": 21339,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00008181",
+        "question_id": 21386,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002282",
+        "question_id": 21480,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00004977",
+        "question_id": 21486,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum",
+            "guzheng",
+            "erhu",
+            "pipa",
+            "flute",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008865",
+        "question_id": 21550,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00001731",
+        "question_id": 21590,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006947",
+        "question_id": 21621,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "saxophone",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00005694",
+        "question_id": 21819,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00002395",
+        "question_id": 21864,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00000152",
+        "question_id": 21907,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00005950",
+        "question_id": 21992,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bassoon",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00003037",
+        "question_id": 22110,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bagpipe",
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00004250",
+        "question_id": 22308,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "drum",
+            "acoustic_guitar",
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00008804",
+        "question_id": 22327,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00000707",
+        "question_id": 22349,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "clarinet",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00002505",
+        "question_id": 22691,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004811",
+        "question_id": 22743,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00008533",
+        "question_id": 22971,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001480",
+        "question_id": 23033,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00005124",
+        "question_id": 23134,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00004507",
+        "question_id": 23374,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00006660",
+        "question_id": 23418,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00008376",
+        "question_id": 23468,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00005980",
+        "question_id": 23508,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00000126",
+        "question_id": 23546,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00005340",
+        "question_id": 23555,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00005813",
+        "question_id": 23580,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00002737",
+        "question_id": 23637,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "erhu",
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00000271",
+        "question_id": 23654,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "electric_bass",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00000973",
+        "question_id": 23659,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "clarinet",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00001522",
+        "question_id": 23678,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00008613",
+        "question_id": 23690,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "acoustic_guitar",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00007883",
+        "question_id": 23715,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007781",
+        "question_id": 23725,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00003970",
+        "question_id": 23747,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00002016",
+        "question_id": 23799,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00003860",
+        "question_id": 23820,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00002714",
+        "question_id": 23838,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "erhu",
+            "guzheng",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006273",
+        "question_id": 23849,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00000286",
+        "question_id": 23869,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00008727",
+        "question_id": 23915,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00001808",
+        "question_id": 23921,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "drum",
+            "electric_bass",
+            "piano",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00001695",
+        "question_id": 23940,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00007943",
+        "question_id": 23971,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "erhu",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002572",
+        "question_id": 23999,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00002872",
+        "question_id": 24002,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "flute",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00005540",
+        "question_id": 24045,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00008589",
+        "question_id": 24070,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002103",
+        "question_id": 24087,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00006170",
+        "question_id": 24143,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00000993",
+        "question_id": 24145,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00008071",
+        "question_id": 24194,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00006923",
+        "question_id": 24223,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "tuba",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00001769",
+        "question_id": 24240,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003779",
+        "question_id": 24247,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "clarinet",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002834",
+        "question_id": 24296,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00003731",
+        "question_id": 24307,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00002487",
+        "question_id": 24308,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "erhu",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003049",
+        "question_id": 24310,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00006373",
+        "question_id": 24384,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "tuba",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00001990",
+        "question_id": 24421,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00001990",
+        "question_id": 24421,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00007074",
+        "question_id": 24428,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00006310",
+        "question_id": 24494,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002701",
+        "question_id": 24533,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "banjo",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002126",
+        "question_id": 24567,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00004549",
+        "question_id": 24578,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00007415",
+        "question_id": 24604,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00007051",
+        "question_id": 24617,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00001955",
+        "question_id": 24619,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "suona"
+        ]
+    },
+    {
+        "video_id": "00002315",
+        "question_id": 24646,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00005006",
+        "question_id": 24709,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "congas"
+        ]
+    },
+    {
+        "video_id": "00005409",
+        "question_id": 24738,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006028",
+        "question_id": 24741,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "clarinet",
+            "cello",
+            "violin",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00006557",
+        "question_id": 24743,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00004876",
+        "question_id": 24781,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00005163",
+        "question_id": 24830,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "banjo",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00006216",
+        "question_id": 24846,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00003440",
+        "question_id": 24883,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "guzheng",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00004765",
+        "question_id": 24935,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00006107",
+        "question_id": 24969,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00001615",
+        "question_id": 24986,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008205",
+        "question_id": 25008,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00006196",
+        "question_id": 25017,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00004227",
+        "question_id": 25032,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "erhu",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00004117",
+        "question_id": 25042,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "cello",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002180",
+        "question_id": 25059,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00004570",
+        "question_id": 25066,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00007698",
+        "question_id": 25123,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "erhu",
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00001841",
+        "question_id": 25128,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00005829",
+        "question_id": 25181,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00006511",
+        "question_id": 25266,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00001680",
+        "question_id": 25273,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00002252",
+        "question_id": 25293,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002264",
+        "question_id": 25339,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00000915",
+        "question_id": 25350,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00002561",
+        "question_id": 25358,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001671",
+        "question_id": 25371,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00004154",
+        "question_id": 25407,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "tuba",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00003842",
+        "question_id": 25430,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00001459",
+        "question_id": 25463,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00002756",
+        "question_id": 25472,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00000210",
+        "question_id": 25473,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001396",
+        "question_id": 25475,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00008649",
+        "question_id": 25522,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00008338",
+        "question_id": 25527,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00007122",
+        "question_id": 25531,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00000645",
+        "question_id": 25560,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "banjo",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00008109",
+        "question_id": 25562,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00001414",
+        "question_id": 25574,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "acoustic_guitar",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00008631",
+        "question_id": 25582,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "suona"
+        ]
+    },
+    {
+        "video_id": "00007253",
+        "question_id": 25595,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00002057",
+        "question_id": 25597,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello",
+            "flute",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00002162",
+        "question_id": 25606,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00005623",
+        "question_id": 25704,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00001164",
+        "question_id": 25776,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003246",
+        "question_id": 25835,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "acoustic_guitar",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00007897",
+        "question_id": 25866,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00001272",
+        "question_id": 25870,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008496",
+        "question_id": 25910,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00007237",
+        "question_id": 25923,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003874",
+        "question_id": 25952,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bassoon",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002468",
+        "question_id": 25957,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00003394",
+        "question_id": 25960,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00005760",
+        "question_id": 25999,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00005028",
+        "question_id": 26002,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007523",
+        "question_id": 26039,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "flute",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00000488",
+        "question_id": 26061,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002678",
+        "question_id": 26069,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00005641",
+        "question_id": 26114,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00003405",
+        "question_id": 26203,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00004099",
+        "question_id": 26227,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "erhu",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006465",
+        "question_id": 26267,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00001539",
+        "question_id": 26274,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "suona"
+        ]
+    },
+    {
+        "video_id": "00005778",
+        "question_id": 26334,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00005778",
+        "question_id": 26334,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00006434",
+        "question_id": 26341,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008885",
+        "question_id": 26382,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "erhu",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00001602",
+        "question_id": 26392,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00004054",
+        "question_id": 26447,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00007385",
+        "question_id": 26488,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00005674",
+        "question_id": 26515,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00007451",
+        "question_id": 26554,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone",
+            "accordion",
+            "drum",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00000723",
+        "question_id": 26566,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "saxophone",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00008908",
+        "question_id": 26596,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003420",
+        "question_id": 26630,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00008020",
+        "question_id": 26636,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00008958",
+        "question_id": 26644,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00007193",
+        "question_id": 26650,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "flute",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00000467",
+        "question_id": 26669,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00001342",
+        "question_id": 26740,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00008598",
+        "question_id": 26742,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00007624",
+        "question_id": 26770,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "guzheng",
+            "pipa",
+            "flute",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00008043",
+        "question_id": 26776,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "banjo",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00007724",
+        "question_id": 26781,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00007004",
+        "question_id": 26803,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "violin",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00001793",
+        "question_id": 26814,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00004733",
+        "question_id": 26815,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone",
+            "congas"
+        ]
+    },
+    {
+        "video_id": "00007870",
+        "question_id": 26824,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00006757",
+        "question_id": 26907,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000307",
+        "question_id": 27030,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004480",
+        "question_id": 27088,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00005657",
+        "question_id": 27099,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "trumpet",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00005937",
+        "question_id": 27168,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00000957",
+        "question_id": 27261,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00004832",
+        "question_id": 27329,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bassoon",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00007676",
+        "question_id": 27339,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00004209",
+        "question_id": 27383,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "guzheng",
+            "pipa",
+            "erhu",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007317",
+        "question_id": 27438,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00003083",
+        "question_id": 27453,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00001747",
+        "question_id": 27504,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "cello",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00006489",
+        "question_id": 27524,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00006934",
+        "question_id": 27580,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "electric_bass",
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00006145",
+        "question_id": 27714,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00001205",
+        "question_id": 27738,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is there a voiceover?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "no",
+        "label": [
+            "accordion",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00008703",
+        "question_id": 31024,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "saxophone",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00000943",
+        "question_id": 31060,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004027",
+        "question_id": 31112,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00004845",
+        "question_id": 31261,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "banjo",
+            "cello",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00007511",
+        "question_id": 31265,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003551",
+        "question_id": 31302,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00004957",
+        "question_id": 31375,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00006069",
+        "question_id": 31395,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006845",
+        "question_id": 31421,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00002541",
+        "question_id": 31456,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "tuba",
+            "trumpet",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00004272",
+        "question_id": 31476,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00004133",
+        "question_id": 31489,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00001500",
+        "question_id": 31537,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00004001",
+        "question_id": 31551,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00006822",
+        "question_id": 31607,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00007988",
+        "question_id": 31641,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00008095",
+        "question_id": 31657,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "clarinet",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004414",
+        "question_id": 31661,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00000185",
+        "question_id": 31752,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00005860",
+        "question_id": 31835,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00004603",
+        "question_id": 31861,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "suona",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00002893",
+        "question_id": 31917,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00006601",
+        "question_id": 32037,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00006966",
+        "question_id": 32065,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "accordion",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00000785",
+        "question_id": 32111,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00008925",
+        "question_id": 32124,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00008426",
+        "question_id": 32237,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "xylophone",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00004011",
+        "question_id": 32246,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "trumpet",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00006729",
+        "question_id": 32656,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00002302",
+        "question_id": 32680,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008220",
+        "question_id": 32776,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00000840",
+        "question_id": 32994,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00003291",
+        "question_id": 33059,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "erhu",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00007289",
+        "question_id": 33089,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00004715",
+        "question_id": 33123,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008764",
+        "question_id": 33126,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00007825",
+        "question_id": 33150,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00004444",
+        "question_id": 33169,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002352",
+        "question_id": 33333,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00006637",
+        "question_id": 33343,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00004302",
+        "question_id": 33386,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00005885",
+        "question_id": 33433,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00002665",
+        "question_id": 33472,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "clarinet",
+            "flute",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00008296",
+        "question_id": 33508,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "erhu",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003917",
+        "question_id": 33545,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00008553",
+        "question_id": 33672,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00003800",
+        "question_id": 33705,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "guzheng",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00002076",
+        "question_id": 33790,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000363",
+        "question_id": 34114,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00001100",
+        "question_id": 34147,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "clarinet",
+            "drum",
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00000692",
+        "question_id": 34214,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00005075",
+        "question_id": 34353,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00003487",
+        "question_id": 34413,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00007395",
+        "question_id": 34442,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00003515",
+        "question_id": 34472,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002520",
+        "question_id": 34483,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00001044",
+        "question_id": 34568,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00008265",
+        "question_id": 34611,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00003647",
+        "question_id": 34638,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00005201",
+        "question_id": 34809,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004287",
+        "question_id": 34896,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00008278",
+        "question_id": 34915,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "ukulele",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00008408",
+        "question_id": 35192,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "banjo",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002936",
+        "question_id": 35213,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "acoustic_guitar",
+            "violin",
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00002777",
+        "question_id": 35215,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00006705",
+        "question_id": 35265,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003759",
+        "question_id": 35381,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "saxophone",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00001929",
+        "question_id": 35385,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "accordion",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00003589",
+        "question_id": 35418,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00003986",
+        "question_id": 35420,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "saxophone",
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00004524",
+        "question_id": 35495,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00007336",
+        "question_id": 35512,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "saxophone",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00005292",
+        "question_id": 35590,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00007138",
+        "question_id": 35605,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00002425",
+        "question_id": 35647,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is this sound from the instrument in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "flute",
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00008440",
+        "question_id": 47753,
+        "type": "[\"Audio-Visual\", \"Existential\"]",
+        "question_content": "Is the <Object> in the video always playing?",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "yes",
+        "label": [
+            "piano",
+            "trumpet",
+            "violin"
+        ]
+    }
+]

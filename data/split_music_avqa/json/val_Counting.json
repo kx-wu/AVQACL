@@ -1,0 +1,6003 @@
+[
+    {
+        "video_id": "00000132",
+        "question_id": 31,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"banjo\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "violin",
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00000112",
+        "question_id": 37,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00000037",
+        "question_id": 60,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00000022",
+        "question_id": 106,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00000065",
+        "question_id": 183,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone",
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00000027",
+        "question_id": 208,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "banjo",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00005792",
+        "question_id": 226,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00005178",
+        "question_id": 266,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00001215",
+        "question_id": 273,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "bassoon",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00000792",
+        "question_id": 311,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00007457",
+        "question_id": 314,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "violin",
+            "cello",
+            "clarinet",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00003328",
+        "question_id": 337,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00005850",
+        "question_id": 343,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "violin",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00008978",
+        "question_id": 346,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00000210",
+        "question_id": 348,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00006431",
+        "question_id": 349,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "electric_bass",
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00000875",
+        "question_id": 357,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001144",
+        "question_id": 362,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00006155",
+        "question_id": 392,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00002981",
+        "question_id": 410,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00007801",
+        "question_id": 411,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00000420",
+        "question_id": 419,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00008946",
+        "question_id": 428,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00007521",
+        "question_id": 449,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007495",
+        "question_id": 456,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00004129",
+        "question_id": 476,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "piano",
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000859",
+        "question_id": 485,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "accordion",
+            "drum",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006211",
+        "question_id": 489,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002683",
+        "question_id": 510,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute",
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00001601",
+        "question_id": 514,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00008064",
+        "question_id": 531,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00002124",
+        "question_id": 545,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "congas"
+        ]
+    },
+    {
+        "video_id": "00001310",
+        "question_id": 559,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "cello",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008469",
+        "question_id": 580,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00007559",
+        "question_id": 602,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00000948",
+        "question_id": 617,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00001577",
+        "question_id": 626,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "cello",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00005129",
+        "question_id": 641,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00004063",
+        "question_id": 654,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "flute",
+            "bassoon",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00001929",
+        "question_id": 655,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "accordion",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00003610",
+        "question_id": 663,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00006135",
+        "question_id": 664,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00007604",
+        "question_id": 685,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00006868",
+        "question_id": 688,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu",
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00000187",
+        "question_id": 689,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00007981",
+        "question_id": 694,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "pipa",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00006669",
+        "question_id": 698,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu",
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00000496",
+        "question_id": 703,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00003454",
+        "question_id": 732,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"erhu\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu",
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00004317",
+        "question_id": 741,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "piano",
+            "violin",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00000402",
+        "question_id": 749,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"banjo\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "piano",
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00001590",
+        "question_id": 769,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00005264",
+        "question_id": 802,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "suona",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00006082",
+        "question_id": 860,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00002395",
+        "question_id": 862,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00002650",
+        "question_id": 880,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "tuba",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00007404",
+        "question_id": 957,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00005675",
+        "question_id": 972,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00000341",
+        "question_id": 985,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00003513",
+        "question_id": 998,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00002026",
+        "question_id": 1048,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "piano",
+            "clarinet",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00008457",
+        "question_id": 1051,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008082",
+        "question_id": 1064,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002095",
+        "question_id": 1071,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "trumpet",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00000729",
+        "question_id": 1077,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"erhu\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00000785",
+        "question_id": 1087,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "more than ten",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00007876",
+        "question_id": 1088,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00003497",
+        "question_id": 1112,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00001845",
+        "question_id": 1125,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001471",
+        "question_id": 1161,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "piano",
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004201",
+        "question_id": 1185,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"bassoon\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "bassoon",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00008373",
+        "question_id": 1194,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone",
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00001453",
+        "question_id": 1201,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "erhu",
+            "guzheng",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00008907",
+        "question_id": 1218,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00005067",
+        "question_id": 1231,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"saxophone\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00007381",
+        "question_id": 1235,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00005412",
+        "question_id": 1236,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "accordion",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00002189",
+        "question_id": 1256,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"saxophone\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "piano",
+            "trumpet",
+            "saxophone",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002741",
+        "question_id": 1262,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "acoustic_guitar",
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00002426",
+        "question_id": 1325,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00007305",
+        "question_id": 1338,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"tuba\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "tuba",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00006322",
+        "question_id": 1364,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00005375",
+        "question_id": 1383,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "ukulele",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00008177",
+        "question_id": 1396,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute",
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00004400",
+        "question_id": 1411,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00007963",
+        "question_id": 1416,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002727",
+        "question_id": 1425,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00008960",
+        "question_id": 1428,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "flute",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002788",
+        "question_id": 1447,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "pipa",
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00005497",
+        "question_id": 1459,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"trumpet\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "trumpet",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00000826",
+        "question_id": 1467,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "tuba",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00004743",
+        "question_id": 1471,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "accordion",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002077",
+        "question_id": 1509,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "accordion",
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00004679",
+        "question_id": 1512,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "trumpet",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00001697",
+        "question_id": 1513,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "bagpipe",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00001802",
+        "question_id": 1517,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00006189",
+        "question_id": 1518,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00006021",
+        "question_id": 1522,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00000688",
+        "question_id": 1523,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00008160",
+        "question_id": 1526,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00004184",
+        "question_id": 1527,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "acoustic_guitar",
+            "ukulele",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00007025",
+        "question_id": 1553,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00000324",
+        "question_id": 1560,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002327",
+        "question_id": 1561,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "piano",
+            "drum",
+            "congas",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00000961",
+        "question_id": 1579,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "cello",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00004730",
+        "question_id": 1593,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00003660",
+        "question_id": 1606,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "tuba",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00004694",
+        "question_id": 1612,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "pipa",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00001435",
+        "question_id": 1631,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "drum",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00001904",
+        "question_id": 1639,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"drum\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00007231",
+        "question_id": 1641,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "trumpet",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002521",
+        "question_id": 1648,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "flute",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00007669",
+        "question_id": 1654,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00001521",
+        "question_id": 1672,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00004258",
+        "question_id": 1684,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00002376",
+        "question_id": 1709,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00003279",
+        "question_id": 1759,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "banjo",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00007833",
+        "question_id": 1761,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000486",
+        "question_id": 1789,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "flute",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00005309",
+        "question_id": 1800,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001409",
+        "question_id": 1807,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00007821",
+        "question_id": 1905,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "trumpet",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00008753",
+        "question_id": 1907,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002339",
+        "question_id": 1910,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "bassoon",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004105",
+        "question_id": 1917,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00006479",
+        "question_id": 1933,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00000266",
+        "question_id": 1940,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00006457",
+        "question_id": 1944,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00006754",
+        "question_id": 1949,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00006044",
+        "question_id": 1956,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "banjo",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003399",
+        "question_id": 1973,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003962",
+        "question_id": 2033,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "seven",
+        "label": [
+            "guzheng",
+            "erhu",
+            "pipa",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00000050",
+        "question_id": 2051,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00000144",
+        "question_id": 2056,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "electric_bass",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00007947",
+        "question_id": 2065,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00003694",
+        "question_id": 2071,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00000514",
+        "question_id": 2132,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00008239",
+        "question_id": 2146,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00008272",
+        "question_id": 2147,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00004860",
+        "question_id": 2161,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00005867",
+        "question_id": 2171,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "clarinet",
+            "flute",
+            "piano",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00006703",
+        "question_id": 2176,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00008916",
+        "question_id": 2186,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00001665",
+        "question_id": 2190,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00004827",
+        "question_id": 2193,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "clarinet",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00005191",
+        "question_id": 2196,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003532",
+        "question_id": 2227,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00005248",
+        "question_id": 2230,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003933",
+        "question_id": 2238,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006969",
+        "question_id": 2250,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00008342",
+        "question_id": 2279,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "violin",
+            "accordion",
+            "drum",
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00007012",
+        "question_id": 2288,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00008127",
+        "question_id": 2315,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002358",
+        "question_id": 2323,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "violin",
+            "clarinet",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00007080",
+        "question_id": 2326,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "clarinet",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00004811",
+        "question_id": 2328,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00001860",
+        "question_id": 2337,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "erhu",
+            "guzheng",
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00002243",
+        "question_id": 2352,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "xylophone",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00002962",
+        "question_id": 2360,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "ukulele",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00006345",
+        "question_id": 2362,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003829",
+        "question_id": 2366,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007157",
+        "question_id": 2374,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "trumpet",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00004281",
+        "question_id": 2379,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00008428",
+        "question_id": 2407,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00004362",
+        "question_id": 2434,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "xylophone",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008584",
+        "question_id": 2441,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001713",
+        "question_id": 2459,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "pipa",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00005209",
+        "question_id": 2478,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00000889",
+        "question_id": 2502,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00003035",
+        "question_id": 2511,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "guzheng",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00003975",
+        "question_id": 2515,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001535",
+        "question_id": 2533,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003074",
+        "question_id": 2534,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003799",
+        "question_id": 2547,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"drum\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "flute",
+            "acoustic_guitar",
+            "drum",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00004537",
+        "question_id": 2548,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00000297",
+        "question_id": 2557,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00005554",
+        "question_id": 2565,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"clarinet\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "clarinet",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00008540",
+        "question_id": 2567,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00003344",
+        "question_id": 2577,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00004081",
+        "question_id": 2580,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00002443",
+        "question_id": 2643,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"saxophone\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "piano",
+            "drum",
+            "electric_bass",
+            "saxophone",
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00008106",
+        "question_id": 2648,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003377",
+        "question_id": 2692,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00001644",
+        "question_id": 2705,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00000175",
+        "question_id": 2723,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00001392",
+        "question_id": 2725,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00007317",
+        "question_id": 2735,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00005618",
+        "question_id": 2747,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00006953",
+        "question_id": 2764,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "saxophone",
+            "violin",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00008390",
+        "question_id": 2803,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "clarinet",
+            "acoustic_guitar",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00006810",
+        "question_id": 2805,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00003870",
+        "question_id": 2819,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "clarinet",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00006496",
+        "question_id": 2841,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "banjo",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002862",
+        "question_id": 2855,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00002488",
+        "question_id": 2864,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "violin",
+            "acoustic_guitar",
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00004768",
+        "question_id": 2873,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "ukulele",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002002",
+        "question_id": 2899,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "acoustic_guitar",
+            "violin",
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00007862",
+        "question_id": 2976,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00003291",
+        "question_id": 3003,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000706",
+        "question_id": 3005,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00007843",
+        "question_id": 3026,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00005517",
+        "question_id": 3045,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00001024",
+        "question_id": 3057,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00005966",
+        "question_id": 3058,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003846",
+        "question_id": 3068,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00003252",
+        "question_id": 3069,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00000677",
+        "question_id": 3099,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "drum",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00005234",
+        "question_id": 3127,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00001557",
+        "question_id": 3151,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00000310",
+        "question_id": 3153,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00003472",
+        "question_id": 3195,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "saxophone",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00007105",
+        "question_id": 3198,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "congas"
+        ]
+    },
+    {
+        "video_id": "00006510",
+        "question_id": 3210,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "guzheng",
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00002502",
+        "question_id": 3214,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "accordion",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00004245",
+        "question_id": 3215,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "drum",
+            "saxophone",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002232",
+        "question_id": 3228,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001878",
+        "question_id": 3237,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00004957",
+        "question_id": 3241,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00008616",
+        "question_id": 3248,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00002208",
+        "question_id": 3253,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00002059",
+        "question_id": 3259,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006267",
+        "question_id": 3307,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00001266",
+        "question_id": 3339,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00001173",
+        "question_id": 3344,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "electric_bass",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00008846",
+        "question_id": 3350,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00004927",
+        "question_id": 3366,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00002264",
+        "question_id": 3379,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"erhu\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00007220",
+        "question_id": 3383,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002410",
+        "question_id": 3398,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00004523",
+        "question_id": 3419,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00006367",
+        "question_id": 3426,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00004613",
+        "question_id": 3433,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "guzheng",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00007273",
+        "question_id": 3437,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00001078",
+        "question_id": 3453,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00008491",
+        "question_id": 3456,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "accordion",
+            "saxophone",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00005706",
+        "question_id": 3479,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00005579",
+        "question_id": 3500,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "congas",
+            "trumpet",
+            "piano",
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00000763",
+        "question_id": 3514,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "piano",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00000156",
+        "question_id": 3516,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00005088",
+        "question_id": 3519,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00008703",
+        "question_id": 3524,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00006719",
+        "question_id": 3526,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "clarinet",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00003946",
+        "question_id": 3563,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00005598",
+        "question_id": 3574,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "cello",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00003228",
+        "question_id": 3593,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001507",
+        "question_id": 3632,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00001123",
+        "question_id": 3637,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00001098",
+        "question_id": 3736,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00006033",
+        "question_id": 3740,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "bassoon",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00007904",
+        "question_id": 3756,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00006737",
+        "question_id": 3761,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "drum",
+            "trumpet",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00000198",
+        "question_id": 3805,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "ukulele",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00008662",
+        "question_id": 3818,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00002586",
+        "question_id": 3825,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "violin",
+            "clarinet",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00000922",
+        "question_id": 3831,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00005777",
+        "question_id": 3840,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "trumpet",
+            "tuba",
+            "saxophone",
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00002839",
+        "question_id": 3866,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "flute",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00006639",
+        "question_id": 3893,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "electric_bass",
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00000250",
+        "question_id": 3901,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "accordion",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00008294",
+        "question_id": 3904,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "flute",
+            "violin",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00004992",
+        "question_id": 3935,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00007048",
+        "question_id": 3963,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001185",
+        "question_id": 3980,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00003575",
+        "question_id": 4041,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"saxophone\"]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00003753",
+        "question_id": 4077,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "violin",
+            "flute",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00000008",
+        "question_id": 4117,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"drum\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00007542",
+        "question_id": 4138,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003916",
+        "question_id": 4140,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many types of musical instruments sound in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00001948",
+        "question_id": 4260,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "violin",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00007125",
+        "question_id": 4358,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"bagpipe\"]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00007167",
+        "question_id": 4367,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "five",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000466",
+        "question_id": 4412,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00004972",
+        "question_id": 4468,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002108",
+        "question_id": 4560,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00003308",
+        "question_id": 4590,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"guzheng\"]",
+        "question_deleted": 0,
+        "anser": "six",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00000581",
+        "question_id": 4612,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"clarinet\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "clarinet",
+            "bassoon",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008782",
+        "question_id": 4848,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"bagpipe\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00001777",
+        "question_id": 4948,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "acoustic_guitar",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00005760",
+        "question_id": 5001,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00006383",
+        "question_id": 5008,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"drum\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "clarinet",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00000612",
+        "question_id": 5019,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"tuba\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00001060",
+        "question_id": 5035,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "seven",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00003998",
+        "question_id": 5072,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"trumpet\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "trumpet"
+        ]
+    },
+    {
+        "video_id": "00005927",
+        "question_id": 5165,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"drum\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00005646",
+        "question_id": 5180,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"guzheng\"]",
+        "question_deleted": 0,
+        "anser": "more than ten",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00008443",
+        "question_id": 5234,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "electric_bass",
+            "ukulele",
+            "electric_guitar"
+        ]
+    },
+    {
+        "video_id": "00008020",
+        "question_id": 5269,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"electric_bass\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00001627",
+        "question_id": 5339,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"erhu\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00002917",
+        "question_id": 5358,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "violin",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00004879",
+        "question_id": 5411,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"erhu\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00001974",
+        "question_id": 5469,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00000093",
+        "question_id": 5488,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"guzheng\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00005541",
+        "question_id": 5602,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00006233",
+        "question_id": 5617,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00008141",
+        "question_id": 5707,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004165",
+        "question_id": 5738,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"drum\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00005346",
+        "question_id": 5742,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00004843",
+        "question_id": 5745,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "piano",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00005140",
+        "question_id": 5783,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"clarinet\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00003103",
+        "question_id": 5798,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "drum",
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00003205",
+        "question_id": 6008,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"bassoon\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00006836",
+        "question_id": 6017,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004668",
+        "question_id": 6024,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00003893",
+        "question_id": 6104,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004752",
+        "question_id": 6378,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00007250",
+        "question_id": 6606,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00007779",
+        "question_id": 6824,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00007285",
+        "question_id": 6827,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "clarinet",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00000378",
+        "question_id": 6917,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "guzheng",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00006980",
+        "question_id": 6958,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00008329",
+        "question_id": 7026,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "violin",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00006121",
+        "question_id": 7187,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"clarinet\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "piano",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00007995",
+        "question_id": 7214,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00005394",
+        "question_id": 7456,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"saxophone\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "saxophone",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00003416",
+        "question_id": 7533,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"saxophone\"]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00006997",
+        "question_id": 7601,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00006538",
+        "question_id": 7719,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "cello",
+            "clarinet",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00002568",
+        "question_id": 7768,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "cello",
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00002167",
+        "question_id": 7779,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"bassoon\"]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00000813",
+        "question_id": 31173,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "bassoon",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007329",
+        "question_id": 31290,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00005473",
+        "question_id": 31314,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000935",
+        "question_id": 31384,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00008526",
+        "question_id": 31442,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "piano",
+            "cello",
+            "clarinet",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00007063",
+        "question_id": 31486,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "banjo",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00004644",
+        "question_id": 31600,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00004390",
+        "question_id": 31770,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "saxophone",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00003434",
+        "question_id": 32584,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "electric_bass",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00008041",
+        "question_id": 32624,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "pipa",
+            "acoustic_guitar",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00005423",
+        "question_id": 32628,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00007743",
+        "question_id": 32895,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "suona"
+        ]
+    },
+    {
+        "video_id": "00002611",
+        "question_id": 32917,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002539",
+        "question_id": 32951,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "tuba",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008719",
+        "question_id": 33017,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00005833",
+        "question_id": 33025,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00002037",
+        "question_id": 33272,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "saxophone",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00008807",
+        "question_id": 33292,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "acoustic_guitar",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003633",
+        "question_id": 33311,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00003022",
+        "question_id": 33317,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "flute",
+            "bassoon",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00004504",
+        "question_id": 33323,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00002153",
+        "question_id": 33372,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007346",
+        "question_id": 33410,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00004557",
+        "question_id": 33427,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "electric_bass",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00005659",
+        "question_id": 33454,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00004785",
+        "question_id": 33456,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "acoustic_guitar",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00007181",
+        "question_id": 33555,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "cello",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00005686",
+        "question_id": 33567,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "bassoon",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00004914",
+        "question_id": 33619,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "clarinet",
+            "acoustic_guitar",
+            "electric_bass"
+        ]
+    },
+    {
+        "video_id": "00002931",
+        "question_id": 33649,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "acoustic_guitar",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00003781",
+        "question_id": 33673,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "saxophone",
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00003738",
+        "question_id": 34124,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "cello",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00002903",
+        "question_id": 34280,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "acoustic_guitar",
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00000661",
+        "question_id": 34291,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000076",
+        "question_id": 34464,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00001491",
+        "question_id": 34653,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00004144",
+        "question_id": 34665,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00008763",
+        "question_id": 34795,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "cello",
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00004433",
+        "question_id": 35135,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "accordion",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000546",
+        "question_id": 35205,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00008829",
+        "question_id": 35234,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00008632",
+        "question_id": 35256,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00007927",
+        "question_id": 35455,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "flute",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00002668",
+        "question_id": 35563,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "saxophone",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000451",
+        "question_id": 35731,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "acoustic_guitar",
+            "clarinet",
+            "bassoon",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007707",
+        "question_id": 35765,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00007645",
+        "question_id": 36021,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "acoustic_guitar",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00007142",
+        "question_id": 36077,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "bassoon",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00008356",
+        "question_id": 36095,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002462",
+        "question_id": 36249,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "drum",
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00004712",
+        "question_id": 36273,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00004027",
+        "question_id": 36332,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00000905",
+        "question_id": 36509,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00006548",
+        "question_id": 36510,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00008793",
+        "question_id": 36541,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00006929",
+        "question_id": 36708,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00001244",
+        "question_id": 36729,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "banjo",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000434",
+        "question_id": 36784,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00006255",
+        "question_id": 36819,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "piano",
+            "violin",
+            "clarinet",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00005053",
+        "question_id": 37107,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00008568",
+        "question_id": 37165,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00005721",
+        "question_id": 37171,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "piano",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00007656",
+        "question_id": 37208,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007201",
+        "question_id": 37228,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "flute",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00000289",
+        "question_id": 37262,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00002291",
+        "question_id": 37337,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "acoustic_guitar",
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00003184",
+        "question_id": 37356,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00006904",
+        "question_id": 37386,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "acoustic_guitar",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00003559",
+        "question_id": 37434,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00001045",
+        "question_id": 37456,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "piano",
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00004412",
+        "question_id": 37535,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "saxophone",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00000242",
+        "question_id": 37580,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00000358",
+        "question_id": 37611,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00005156",
+        "question_id": 37638,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00004052",
+        "question_id": 37640,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00002638",
+        "question_id": 37655,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00008408",
+        "question_id": 37658,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "banjo",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002889",
+        "question_id": 37659,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "cello",
+            "piano",
+            "erhu",
+            "flute",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00006169",
+        "question_id": 37663,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "flute",
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00006624",
+        "question_id": 37700,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007732",
+        "question_id": 37708,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "banjo",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00005115",
+        "question_id": 37763,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00002759",
+        "question_id": 37963,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "congas"
+        ]
+    },
+    {
+        "video_id": "00003129",
+        "question_id": 38103,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "flute",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00008732",
+        "question_id": 38140,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "banjo",
+            "acoustic_guitar",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00004340",
+        "question_id": 38193,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00006603",
+        "question_id": 38269,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00008311",
+        "question_id": 38355,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "accordion",
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00006771",
+        "question_id": 38416,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00005814",
+        "question_id": 38426,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "violin",
+            "flute",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00004453",
+        "question_id": 38464,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00007362",
+        "question_id": 38545,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00008884",
+        "question_id": 38615,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00000561",
+        "question_id": 38627,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00007475",
+        "question_id": 38742,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00005012",
+        "question_id": 38882,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "drum"
+        ]
+    },
+    {
+        "video_id": "00000276",
+        "question_id": 38943,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "clarinet",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00000720",
+        "question_id": 38980,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "violin",
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00001322",
+        "question_id": 39042,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00004587",
+        "question_id": 39050,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00002311",
+        "question_id": 39051,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00004298",
+        "question_id": 39138,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00007429",
+        "question_id": 39194,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "cello",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00001288",
+        "question_id": 39220,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "five",
+        "label": [
+            "clarinet",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00003719",
+        "question_id": 39229,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "violin",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00000535",
+        "question_id": 39374,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "banjo",
+            "piano",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00001340",
+        "question_id": 39537,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "saxophone",
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00004938",
+        "question_id": 39591,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00003051",
+        "question_id": 39600,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "accordion",
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00008687",
+        "question_id": 39621,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00005028",
+        "question_id": 39628,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007895",
+        "question_id": 39640,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments are sounding in the video?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "three",
+        "label": [
+            "cello",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00008818",
+        "question_id": 39793,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many instruments in the video did not sound from beginning to end?",
+        "templ_values": "[]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000971",
+        "question_id": 40637,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"clarinet\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "clarinet",
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00002817",
+        "question_id": 40639,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"bassoon\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00007688",
+        "question_id": 40650,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"suona\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "violin",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00002801",
+        "question_id": 40716,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"clarinet\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00008861",
+        "question_id": 40719,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"congas\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "congas"
+        ]
+    },
+    {
+        "video_id": "00002557",
+        "question_id": 40748,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00000998",
+        "question_id": 40780,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00005446",
+        "question_id": 40814,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"bagpipe\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "bagpipe"
+        ]
+    },
+    {
+        "video_id": "00006791",
+        "question_id": 40862,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"banjo\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "banjo"
+        ]
+    },
+    {
+        "video_id": "00006884",
+        "question_id": 40877,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "acoustic_guitar",
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00006578",
+        "question_id": 41039,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"tuba\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "tuba",
+            "piano"
+        ]
+    },
+    {
+        "video_id": "00005982",
+        "question_id": 41068,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00004475",
+        "question_id": 41074,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "pipa",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00000629",
+        "question_id": 41159,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "guzheng"
+        ]
+    },
+    {
+        "video_id": "00003004",
+        "question_id": 41233,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"clarinet\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "clarinet",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00005738",
+        "question_id": 41250,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "six",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00006300",
+        "question_id": 41279,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00006915",
+        "question_id": 41343,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00002703",
+        "question_id": 41411,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"bassoon\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00005286",
+        "question_id": 41528,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "piano",
+            "erhu"
+        ]
+    },
+    {
+        "video_id": "00006649",
+        "question_id": 41556,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"bassoon\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "bassoon"
+        ]
+    },
+    {
+        "video_id": "00008191",
+        "question_id": 41629,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"flute\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00008218",
+        "question_id": 41683,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"clarinet\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "clarinet"
+        ]
+    },
+    {
+        "video_id": "00000220",
+        "question_id": 41685,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"saxophone\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "accordion",
+            "saxophone"
+        ]
+    },
+    {
+        "video_id": "00006419",
+        "question_id": 41712,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "piano",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00007754",
+        "question_id": 41779,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"acoustic_guitar\"]",
+        "question_deleted": 0,
+        "anser": "five",
+        "label": [
+            "acoustic_guitar"
+        ]
+    },
+    {
+        "video_id": "00005907",
+        "question_id": 41827,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "electric_bass",
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00006009",
+        "question_id": 41863,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"piano\"]",
+        "question_deleted": 0,
+        "anser": "zero",
+        "label": [
+            "clarinet",
+            "flute"
+        ]
+    },
+    {
+        "video_id": "00000744",
+        "question_id": 41865,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"congas\"]",
+        "question_deleted": 0,
+        "anser": "five",
+        "label": [
+            "congas"
+        ]
+    },
+    {
+        "video_id": "00002944",
+        "question_id": 41889,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "violin",
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003174",
+        "question_id": 41962,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00008508",
+        "question_id": 41988,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"violin\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "accordion",
+            "violin"
+        ]
+    },
+    {
+        "video_id": "00006059",
+        "question_id": 42001,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"ukulele\"]",
+        "question_deleted": 0,
+        "anser": "two",
+        "label": [
+            "ukulele"
+        ]
+    },
+    {
+        "video_id": "00005880",
+        "question_id": 42007,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"cello\"]",
+        "question_deleted": 0,
+        "anser": "eight",
+        "label": [
+            "cello"
+        ]
+    },
+    {
+        "video_id": "00003672",
+        "question_id": 42516,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"accordion\"]",
+        "question_deleted": 0,
+        "anser": "nine",
+        "label": [
+            "accordion"
+        ]
+    },
+    {
+        "video_id": "00007623",
+        "question_id": 42638,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"tuba\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "piano",
+            "tuba"
+        ]
+    },
+    {
+        "video_id": "00001738",
+        "question_id": 42715,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"xylophone\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "xylophone"
+        ]
+    },
+    {
+        "video_id": "00001823",
+        "question_id": 42919,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"pipa\"]",
+        "question_deleted": 0,
+        "anser": "four",
+        "label": [
+            "pipa"
+        ]
+    },
+    {
+        "video_id": "00001362",
+        "question_id": 43100,
+        "type": "[\"Audio-Visual\", \"Counting\"]",
+        "question_content": "How many sounding <Object> in the video\uff1f",
+        "templ_values": "[\"guzheng\"]",
+        "question_deleted": 0,
+        "anser": "one",
+        "label": [
+            "acoustic_guitar",
+            "guzheng"
+        ]
+    }
+]
