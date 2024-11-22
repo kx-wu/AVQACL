@@ -21,6 +21,6 @@ pip install -r requirements.txt
 
 
 The feature data extracted by the audio and visual encoders from the two datasets can be downloaded 
-from the google drive [link]([https://drive.google.com/file/d/1WNEG-tF_UUugz-dFD28mZr_Qh5x3ucpo/view?usp=sharing]). After downloading, place the 'features' folder in the current directory 
+from the google drive [link](https://drive.google.com/file/d/1WNEG-tF_UUugz-dFD28mZr_Qh5x3ucpo/view?usp=sharing). After downloading, place the 'features' folder in the current directory 
 to run experiments with our proposed method.
 
