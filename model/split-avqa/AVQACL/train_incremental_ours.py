@@ -371,7 +371,7 @@ if __name__ == "__main__":
     parser.add_argument('--infer_batch_size', type=int, default=16)
     parser.add_argument('--exemplar_batch_size', type=int, default=16)
     parser.add_argument('--num_workers', type=int, default=0)
-    parser.add_argument('--max_epoches', type=int, default=1)
+    parser.add_argument('--max_epoches', type=int, default=120)
     # parser.add_argument('--num_classes', type=int, default=28)
     parser.add_argument('--lr', type=float, default=1e-3)
     parser.add_argument('--weight_decay', type=float, default=1e-4)
