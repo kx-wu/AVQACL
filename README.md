@@ -3,16 +3,6 @@
 In this paper, a novel benchmark for audio-visual question answering continual learning (AVQACL) is introduced, aiming to study fine-grained scene understanding
 and spatial-temporal reasoning in videos under a continual learning setting. 
 
-[//]: # (and propose a method <b>AV-CIL</b>. [[paper]&#40;https://arxiv.org/pdf/2308.11073.pdf&#41;])
-
-[//]: # (<div align="center">)
-
-[//]: # (  <img width="100%" alt="AV-CIL" src="images/model.jpg">)
-
-[//]: # (</div>)
-
-[//]: # ()
-
 ## Environment
 
 Python 3.12.4
