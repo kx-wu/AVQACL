@@ -1,4 +1,4 @@
-# AVQACL: A Novel Benchmark for Audio-Visual Question Answering Continual Learning
+# AVQACL: A Novel Benchmark for Audio-Visual Question Answering Continual Learning（CVPR2025）
 
 In this paper, a novel benchmark for audio-visual question answering continual learning (AVQACL) is introduced, aiming to study fine-grained scene understanding
 and spatial-temporal reasoning in videos under a continual learning setting. 
