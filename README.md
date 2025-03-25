@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ### Split-AVQA and Split-MUSIC-AVQA
 
 
-The feature data extracted by the audio and visual encoders from the two datasets can be downloaded 
+The feature data extracted by the audio and visual encoders can be downloaded 
 from the google drive [link](https://drive.google.com/file/d/1WNEG-tF_UUugz-dFD28mZr_Qh5x3ucpo/view?usp=sharing). After downloading, place the 'features' folder in the current directory 
 to run experiments with our proposed method.
 
