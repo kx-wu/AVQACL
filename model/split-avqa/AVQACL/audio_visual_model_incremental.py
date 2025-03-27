@@ -1,8 +1,8 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from layers import LSCLinear
-from visual_net import resnet18
+# from layers import LSCLinear
+# from visual_net import resnet18
 
 
 class QstEncoder(nn.Module):
@@ -52,7 +52,7 @@ class IncreAudioVisualNet(nn.Module):
             self.fc_a1 = nn.Linear(128, 512)
             self.fc_a2 = nn.Linear(512, 512)
 
-            self.visual_net = resnet18(pretrained=True)
+            # self.visual_net = resnet18(pretrained=True)
 
             self.fc_v = nn.Linear(2048, 512)
             self.fc_st = nn.Linear(512, 512)
@@ -96,9 +96,6 @@ class IncreAudioVisualNet(nn.Module):
 
             self.temporal_conv = nn.Conv1d(512, 512, kernel_size=3, padding=1)
 
-        if LSC:
-            self.classifier = LSCLinear(512, self.num_ans)
-        else:
             self.classifier = self.fc_ans
 
     def forward(self, audio, visual, question, out_logits=True, out_features=False, out_features_norm=False, out_feature_before_fusion=False, que_feature=False):
